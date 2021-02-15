@@ -1,0 +1,2 @@
+class OriginalAppsController < ApplicationController
+end
