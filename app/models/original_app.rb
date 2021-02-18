@@ -1,0 +1,2 @@
+class OriginalApp < ApplicationRecord
+end
